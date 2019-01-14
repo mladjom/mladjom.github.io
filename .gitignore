@@ -2,6 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 node_modules
+npm-debug.log*
 update.sh
 package-lock.json
 Gemfile.lockss
